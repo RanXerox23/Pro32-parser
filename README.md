@@ -4,4 +4,4 @@ Pro32-parser is a python script that runs a REST API GET request on PRO32connect
 
 To run the code you must first rename the file 
 `config_clear.py` > `config.py`
-and fill the `config.py` with your kek
+and fill the `config.py` with your key
